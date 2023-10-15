@@ -1,1 +1,4 @@
 # pracD
+FIRST
+SECOND
+THIRD
